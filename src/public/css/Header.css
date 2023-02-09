@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Nunito:wght@200&family=Roboto+Condensed&display=swap');
+
+
+* {
+    /* padding: 0; */
+    /* margin: 0; */
+    background-color: "#F2F2F2";
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+div.header {
+
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+/* div {
+    display: inline-block;
+} */
+
+
+
+div.phone {
+    padding: 0;
+    position: absolute;
+    margin-left: 40%;
+    padding-bottom: 10px;
+    margin-bottom: 30%;
+    display: inline;
+    padding-bottom: 30px;
+    font-weight: 400;
+    height: 27px;
+}
+
+
+div.para {
+    background-color: "#F2F2F2";
+    margin: 30%;
+    display: inline;
+    /* margin: 10px; */
+    color: #716C80;
+    /* margin-top: 20pxs; */
+    /* font-family: 'Montserrat', sans-serif; */
+
+    /* font-family: 'Roboto Condensed', sans-serif; */
+
+    /* position: absolute; */
+    /* height: 27px; */
+    /* left: 20.31%; */
+    /* right: 60.52%; */
+    /* top: calc(50% - 27px/2 - 3253px); */
+
+    /* font-family: 'Nunito'; */
+    /* font-style: normal; */
+    font-weight: 400;
+    /* font-size: 16px; */
+    /* line-height: 27px;s */
+    /* identical to box height, or 169% */
+
+
+    color: #716C80;
+}

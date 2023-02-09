@@ -1,0 +1,28 @@
+img.logo {
+    margin-bottom: 10px;
+    margin-right: 20px;
+    width: 35%;
+}
+
+img.logo2 {
+    margin-left: -55px;
+    margin-right: 30px;
+    margin-top: 8px;
+    width: 32%;
+}
+
+a.navbar-brand {
+    margin-left: -131px;
+}
+
+a.nav-link {
+    color: #554D89;
+}
+
+.navbar-nav a.nav-link.active {
+    color: #554D89;
+}
+
+.button-grp button {
+    background: #fff;
+}
